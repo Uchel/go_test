@@ -9,5 +9,5 @@ func main() {
 		}
 	}
 
-	// ada perubahan disini
+	// ini di commit dari russel's branch
 }
