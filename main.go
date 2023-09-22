@@ -8,4 +8,6 @@ func main() {
 			fmt.Println(i)
 		}
 	}
+
+	// ini di commit dari russel's branch
 }
